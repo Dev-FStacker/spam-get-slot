@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "99iM3Ma2B8k=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Automation\\GetSlot\\GetSlot\\GetSlot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.8700\\selenium.webdriver.chromedriver.131.0.6778.8700.nupkg.sha512"
+  ],
+  "logs": []
+}
